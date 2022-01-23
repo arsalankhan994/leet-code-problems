@@ -1,4 +1,4 @@
-package com.company;
+package com.erselankhan;
 
 public class IntegerPalindrome {
 
